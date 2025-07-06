@@ -10,4 +10,8 @@ HR analytics case study using Power BI to explore gender distribution, pay gaps,
 - Power BI
 - Excel
 - DAX
-### Output
+### Output:
+### Dashboard 1
+![Dashboards](PALMORA.png)
+### Dashboard 2
+![Dashboards](PALMORA1.png)
